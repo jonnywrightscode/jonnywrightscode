@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis, machine learning, web and mobile app development, product and project management.
 - 🌱 I’m currently learning full stack web development.
 - 👷 I'm a data analyst and product manager taking time out to learn the skills required to build apps.
-- 💞️ I’m not looking to collaborate at the moment but that will change once I feel more comfortable with web development.
+- 💞️ I’m not looking to collaborate at the moment but that will change once I have got to grips with web development.
 
 
 <!---
